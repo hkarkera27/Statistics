@@ -1,11 +1,11 @@
-** Analysing Rainfall in India **
+# Analysing Rainfall in India
 
-# Objective 
+## Objective 
 
 Using the data recorded for Rainfall in India from 1901 to 2017 we plot various visualizations to draw suitable conclusions about the rainfall pattern. 
 With the help of these visualizations, we go on to test various hypothesis and predict the annual rainfall using linear regression.
 
-# Data Description
+## Data Description
 
 The rainfall data is obtained from https://data.gov.in/ which is an open government data platform. It presents details on the amount of rainfall received (in mm) by various Subdivisons in India for the period of 1901 - 2017.
 Below is the description of the variables in the dataset:
@@ -18,5 +18,5 @@ Below is the description of the variables in the dataset:
 7) JJAS: The amount of rainfall received in June, July & August.
 8) OND: The amount of rainfall received in October, November & December
 
-Programming Language : R
-Libraries used : tidyverse, ggplot2, ggthemes, PerformanceAnalytics, fitdistrplus, graphics, stats
+### Programming Language : R
+### Libraries used : tidyverse, ggplot2, ggthemes, PerformanceAnalytics, fitdistrplus, graphics, stats
